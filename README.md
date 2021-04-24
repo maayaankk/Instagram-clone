@@ -2,8 +2,8 @@
 Created using Create react app.
 
 ## React Scripts
-npx crate-react-app (my-app)
-npm start
+npx crate-react-app (my-app)<br>
+npm start<br>
 yarn start
 
 
